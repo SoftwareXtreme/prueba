@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1) Estoy subiendo este archivo nuevo, desde el branch tuto1, para las pruebas de integracion respectivas
    -----------------------------------------------------------------------------------------------------
 =======
 2) Este es el Archivo nuevo editado y creado en la branch tuto2
    ------------------------------------------------------------	
 >>>>>>> tuto2
+=======
+1) Este es el archivo nuevo Ok Esto lo escribió en el branch tuto3
+   ------------------------------------------------------------------
+>>>>>>> tuto3
